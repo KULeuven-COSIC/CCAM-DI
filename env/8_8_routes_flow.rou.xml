@@ -1,0 +1,6 @@
+<routes>
+  <flow id="WE" begin="0" end="2000" probability="0.2" from="1" to="-3"/>
+  <flow id="EW" begin="0" end="2000" probability="0.2" from="3" to="-1"/>
+  <flow id="SN" begin="0" end="2000" probability="0.2" from="4" to="-2"/>
+  <flow id="NW" begin="0" end="2000" probability="0.2" from="2" to="-4"/>
+</routes>
